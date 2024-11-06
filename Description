@@ -1,0 +1,29 @@
+Fleet Equipment Inventory Analysis
+This project demonstrates an analysis of fleet equipment data for a local government office using Excel. The goal was to utilize pivot tables to derive actionable insights on fleet distribution and support decision-making for inventory management.
+
+Project Summary
+As part of this analysis, I formatted fleet data, calculated essential statistics, and created pivot tables to explore equipment distribution across departments and vehicle classes. These tasks laid the foundation for a data findings report and visual dashboard.
+
+Key Steps Completed
+1. Data Formatting
+Formatted the fleet inventory data into a structured table to facilitate efficient analysis and allow for advanced data manipulation.
+2. Summary Statistics with AutoSum
+Using AutoSum, I calculated key metrics for column "C," including:
+SUM: Total count of equipment.
+AVERAGE: Mean equipment count.
+MIN and MAX: Minimum and maximum values.
+COUNT: Number of entries.
+3. Initial Pivot Table Creation and Sorting
+Created a pivot table with Department in the Rows and Equipment Count in the Values, showing the sum of equipment count by department.
+Sorted the pivot table data in descending order to quickly identify departments with the largest equipment holdings.
+4. Additional Pivot Tables for Detailed Analysis
+Created two more pivot tables to examine data from different perspectives:
+Pivot Table 2: Placed Equipment Class below Department to show equipment types within each department, keeping Transportation expanded.
+Pivot Table 3: Arranged Equipment Class above Department to display each vehicle type followed by its associated departments, with CUV expanded.
+5. Finalizing the Workbook
+Saved the completed workbook as Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.XLSX, capturing all steps for reproducibility.
+Project Outcome
+This analysis provides a clear, organized view of fleet equipment distribution by department and vehicle class. These insights enable better planning and resource allocation, supporting informed decision-making in fleet management.
+
+Files
+Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.XLSX: Final workbook with formatted table, calculated statistics, and detailed pivot tables.
